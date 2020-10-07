@@ -8,16 +8,16 @@ A small chiptune player for all platforms. Sounler is a small audio player origi
 
 Features
 ------------
-Music player for video game platforms including Nintendo, Sony PlayStation, Amiga, Sega and Spectrum, etc.<br>
-Organise thousands of audio files by music metadata, such as platform, style, self-defined category, tags etc.<br>
-Powerful database query by combining of logical operations. Fast, intuitive and simple.<br>
-Organise audio files by drag and drop operations in a Finder-like environment.<br>
-Full featured music player with traditional playlist management.<br>
-Metadata extract from all kinds of audio file and export, including cover picture extract and save.<br>
-Convert almost any normal audio file format to local file including MP3, Ogg, AAC and WAV audio format.<br>
-Convert audio file to MP3 includes self-defined cover picture, and normal metadata, such as artist, album, genre and comments.<br>
-Export report with the queried results from database.<br>
-Ultra lightweight.<br>
+. Music player for video game platforms including Nintendo, Sony PlayStation, Amiga, Sega and Spectrum, etc.<br>
+. Organise thousands of audio files by music metadata, such as platform, style, self-defined category, tags etc.<br>
+. Powerful database query by combining of logical operations. Fast, intuitive and simple.<br>
+. Organise audio files by drag and drop operations in a Finder-like environment.<br>
+. Full featured music player with traditional playlist management.<br>
+. Metadata extract from all kinds of audio file and export, including cover picture extract and save.<br>
+. Convert almost any normal audio file format to local file including MP3, Ogg, AAC and WAV audio format.<br>
+. Convert audio file to MP3 includes self-defined cover picture, and normal metadata, such as artist, album, genre and comments.<br>
+. Export report with the queried results from database.<br>
+. Ultra lightweight.<br>
 <br>
 
 
